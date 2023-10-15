@@ -31,7 +31,5 @@ public class ChessMatch {
 		placeNewPiece('e', 8, new King(board, Color.BLACK));
 		placeNewPiece('e', 1, new King(board, Color.WHITE));
 
-		
-
 	}
 }
